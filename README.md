@@ -1,1 +1,1 @@
-Este projeto visa o desenvolvimento de práticas de ferramentas da Orientação a Objetos: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO. Esse desafio faz parte das atividades do Bootcamp Spread Java Developer, da plataforma plataforma de cursos online DIGITAL INNOVATION ONE.
+Este projeto visa o desenvolvimento de práticas de ferramentas de programação orientada a objetos, incluindo ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO. Esse desafio faz parte das atividades do Bootcamp Spread Java Developer, da plataforma de cursos online DIGITAL INNOVATION ONE.
